@@ -69,9 +69,9 @@ public class PokerGame {
 			}
 		
 		lookPoker("底牌", lord);
-		lookPoker("玩家1", play1);
-		lookPoker("玩家2", play2);
-		lookPoker("玩家3", play3);
+		lookPoker("玩家一", play1);
+		lookPoker("玩家二", play2);
+		lookPoker("玩家三", play3);
 		
 		}
 		
